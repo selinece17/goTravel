@@ -1,0 +1,51 @@
+# ===============================
+# Go build files
+# ===============================
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build directories
+bin/
+dist/
+build/
+
+# Go coverage files
+coverage.out
+
+# Dependency directories (if used)
+vendor/
+
+# ===============================
+# IDE files
+# ===============================
+
+# JetBrains IDEs (GoLand, IntelliJ)
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Environment files
+# ===============================
+.env
+
+# ===============================
+# Temporary files
+# ===============================
+tmp/
+temp/
+*.tmp
